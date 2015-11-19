@@ -19,7 +19,7 @@ package com.android.packageinstaller;
 import android.app.Activity;
 import android.app.ActivityManagerNative;
 import android.app.AlertDialog;
-import android.app.Dialog;
+import android.app.Dialog; 
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
